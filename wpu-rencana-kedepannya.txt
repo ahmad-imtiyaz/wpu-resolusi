@@ -1,6 +1,8 @@
 RENCANA KEDEPANNYA
 
 - Javascript
+* ES6
+* Framework
 - PHP Native
 - PHP Laravel
 - JAVA
