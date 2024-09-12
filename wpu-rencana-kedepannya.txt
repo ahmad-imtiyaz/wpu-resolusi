@@ -4,6 +4,7 @@ RENCANA KEDEPANNYA
 * ES6
 * Framework
 > Vue
+> React
 - Fundamental Data dasar
 - PHP Native
 - PHP Laravel
