@@ -3,8 +3,8 @@ RENCANA KEDEPANNYA
 - Javascript
 * ES6
 * Framework
-> angular
-> react
+> Vue
+> React
 - Fundamental Data dasar
 - PHP Native
 > frame work
