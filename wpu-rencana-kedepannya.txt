@@ -3,7 +3,10 @@ RENCANA KEDEPANNYA
 - Javascript
 * ES6
 * Framework
+> angular
+> react
 - Fundamental Data dasar
 - PHP Native
+> frame work
 - PHP Laravel
 - JAVA
