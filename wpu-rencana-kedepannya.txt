@@ -7,5 +7,6 @@ RENCANA KEDEPANNYA
 > React
 - Fundamental Data dasar
 - PHP Native
+> frame work
 - PHP Laravel
 - JAVA
